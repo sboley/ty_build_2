@@ -1,0 +1,6 @@
+{
+  "name": "Media Kit - Alex Runner",
+  "short_name": "MediaKit",
+  "start_url": "/",
+  "display": "standalone"
+}
